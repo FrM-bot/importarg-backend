@@ -39,13 +39,14 @@
       ]
     },
     "description": {
-      "type": "blocks",
+      "type": "richtext",
       "pluginOptions": {
         "i18n": {
           "localized": true
         }
       },
-      "required": true
+      "required": true,
+      "minLength": 3
     }
   }
 }

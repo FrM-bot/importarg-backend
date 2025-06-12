@@ -41,6 +41,9 @@
       "type": "relation",
       "relation": "oneToOne",
       "target": "api::brand.brand"
+    },
+    "description_md": {
+      "type": "richtext"
     }
   }
 }
